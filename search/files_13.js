@@ -24,7 +24,7 @@ var searchData=
   ['string_5ffibonacci_2ecpp_21',['string_fibonacci.cpp',['../de/d47/string__fibonacci_8cpp.html',1,'']]],
   ['subarray_5fsum_2ecpp_22',['subarray_sum.cpp',['../df/d94/subarray__sum_8cpp.html',1,'']]],
   ['sublist_5fsearch_2ecpp_23',['sublist_search.cpp',['../d5/d45/sublist__search_8cpp.html',1,'']]],
-  ['subset_5fsum_2ecpp_24',['subset_sum.cpp',['../d6/d80/dynamic__programming_2subset__sum_8cpp.html',1,'(Global Namespace)'],['../d0/dfe/backtracking_2subset__sum_8cpp.html',1,'(Global Namespace)']]],
+  ['subset_5fsum_2ecpp_24',['subset_sum.cpp',['../d0/dfe/backtracking_2subset__sum_8cpp.html',1,'(Global Namespace)'],['../d6/d80/dynamic__programming_2subset__sum_8cpp.html',1,'(Global Namespace)']]],
   ['successive_5fapproximation_2ecpp_25',['successive_approximation.cpp',['../df/dc8/successive__approximation_8cpp.html',1,'']]],
   ['sudoku_5fsolver_2ecpp_26',['sudoku_solver.cpp',['../d3/d05/sudoku__solver_8cpp.html',1,'']]],
   ['sum_5fof_5fbinomial_5fcoefficient_2ecpp_27',['sum_of_binomial_coefficient.cpp',['../d4/d9d/sum__of__binomial__coefficient_8cpp.html',1,'']]],

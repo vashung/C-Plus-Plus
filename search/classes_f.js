@@ -17,7 +17,7 @@ var searchData=
   ['pointer_5ftraits_14',['pointer_traits',['http://en.cppreference.com/w/cpp/memory/pointer_traits.html',0,'std']]],
   ['poisson_5fdistribution_15',['poisson_distribution',['http://en.cppreference.com/w/cpp/numeric/random/poisson_distribution.html',0,'std']]],
   ['priority_5fqueue_16',['priority_queue',['http://en.cppreference.com/w/cpp/container/priority_queue.html',0,'std']]],
-  ['priority_5fqueue_3c_20tuple_3c_20s_2c_20t_2c_20e_2c_20double_2c_20double_2c_20double_20_3e_2c_20vector_3c_20tuple_3c_20s_2c_20t_2c_20e_2c_20double_2c_20double_2c_20double_20_3e_20_3e_2c_20compare_3c_20s_2c_20t_2c_20e_20_3e_20_3e_17',['priority_queue&lt; tuple&lt; S, T, E, double, double, double &gt;, vector&lt; tuple&lt; S, T, E, double, double, double &gt; &gt;, Compare&lt; S, T, E &gt; &gt;',['http://en.cppreference.com/w/cpp/container/priority_queue.html',0,'std']]],
+  ['priority_5fqueue_3c_20std_3a_3atuple_3c_20s_2c_20t_2c_20e_2c_20double_2c_20double_2c_20double_20_3e_2c_20std_3a_3avector_3c_20std_3a_3atuple_3c_20s_2c_20t_2c_20e_2c_20double_2c_20double_2c_20double_20_3e_20_3e_2c_20compare_3c_20s_2c_20t_2c_20e_20_3e_20_3e_17',['priority_queue&lt; std::tuple&lt; S, T, E, double, double, double &gt;, std::vector&lt; std::tuple&lt; S, T, E, double, double, double &gt; &gt;, Compare&lt; S, T, E &gt; &gt;',['http://en.cppreference.com/w/cpp/container/priority_queue.html',0,'std']]],
   ['promise_18',['promise',['http://en.cppreference.com/w/cpp/thread/promise.html',0,'std']]],
   ['ptrdiff_5ft_19',['ptrdiff_t',['http://en.cppreference.com/w/cpp/types/ptrdiff_t.html',0,'std']]]
 ];
